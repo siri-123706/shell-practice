@@ -6,4 +6,4 @@ echo "First Movie: ${MOVIES[0]}"
 echo "First Movie: ${MOVIES[3]}"
 echo "First Movie: ${MOVIES[4]}"
 
-echo "All movies: ${MOVIES[@]}" #@ means all
+echo "All movies: ${MOVIES[@]}" #@ means all variable passed script
